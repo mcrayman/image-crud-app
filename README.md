@@ -1,7 +1,7 @@
-### This project took approximately 3.5 hours to complete. 
-
-### If I had more time, I would improve the styling using Tailwind and setup a simple backend service to save my image uploads.
-### I would also include an update feature to edit the names of the images.
+### This project took approximately 3.5 hours to complete.
+### If I had more time, I would improve the styling using Tailwind and include an update feature to edit the names of the images.
+### Additionally, I’d clean up the code by creating shared styling across components, like consistent spacing, button styles, and layout patterns instead of repeating the same classes in multiple places. 
+### I’d also add an image preview before upload, and move the in-memory API to a lightweight backend for persistence.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
